@@ -1,0 +1,4 @@
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Managers\bin\Debug\AWSNet.Managers.dll
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Managers\bin\Debug\AWSNet.Managers.pdb
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Managers\obj\Debug\AWSNet.Managers.dll
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Managers\obj\Debug\AWSNet.Managers.pdb
