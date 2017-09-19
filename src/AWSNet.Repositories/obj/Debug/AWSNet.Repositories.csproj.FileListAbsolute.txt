@@ -1,0 +1,4 @@
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Repositories\bin\Debug\AWSNet.Repositories.dll
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Repositories\bin\Debug\AWSNet.Repositories.pdb
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Repositories\obj\Debug\AWSNet.Repositories.dll
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Repositories\obj\Debug\AWSNet.Repositories.pdb
