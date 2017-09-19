@@ -1,0 +1,10 @@
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\bin\Debug\AWSNet.Model.dll.config
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\bin\Debug\AWSNet.Model.dll
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\bin\Debug\AWSNet.Model.pdb
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\bin\Debug\EntityFramework.dll
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\bin\Debug\EntityFramework.xml
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\obj\Debug\AWSNet.Model.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\obj\Debug\AWSNet.Model.dll
+C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\obj\Debug\AWSNet.Model.pdb
