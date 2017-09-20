@@ -64,7 +64,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AWSNetModel.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Base\Entity.cs" />
+    <Compile Include="Entities\Products.cs" />
+    <Compile Include="ModelContext.cs" />
     <Compile Include="Product.cs">
       <DependentUpon>AWSNetModel.tt</DependentUpon>
     </Compile>
