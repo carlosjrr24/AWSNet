@@ -1,1 +1,0 @@
-C:\Users\carlos\Documents\GitHub\AWSNet\src\AWSNet.Model\obj\Debug\AWSNet.Model.csprojResolveAssemblyReference.cache
