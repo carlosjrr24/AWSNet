@@ -14,10 +14,15 @@ namespace AWSNet.Model
     
     public partial class Product
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
         public string Name { get; set; }
-        public string Description { get; set; }
-        public int Stock { get; set; }
-        public Nullable<int> CategoryId { get; set; }
+        public Nullable<int> CategoryID { get; set; }
+        public decimal UnitPrice { get; set; }
+        public int UnitsStock { get; set; }
+        public string CreationUser { get; set; }
+        public Nullable<System.DateTime> CreationDate { get; set; }
+        public Nullable<System.DateTime> LastModificationDate { get; set; }
+        public string LastModificationUser { get; set; }
+        public Nullable<bool> IsEnabled { get; set; }
     }
 }

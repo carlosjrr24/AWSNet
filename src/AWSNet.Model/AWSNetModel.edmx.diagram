@@ -4,8 +4,17 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="0bce59d6d5064644a84a9698d6ea9922" Name="Diagram1">
-        <EntityTypeShape EntityType="AWSNetModel.Product" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+      <Diagram DiagramId="0bce59d6d5064644a84a9698d6ea9922" Name="Diagram1" ZoomLevel="99">
+        <EntityTypeShape EntityType="AWSNetModel.Product" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AWSNetModel.Category" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="AWSNetModel.Role" Width="1.5" PointX="6.5" PointY="3.375" />
+        <EntityTypeShape EntityType="AWSNetModel.User" Width="1.5" PointX="8.75" PointY="0.5" />
+        <EntityTypeShape EntityType="AWSNetModel.UserClaim" Width="1.5" PointX="11" PointY="4.5" />
+        <EntityTypeShape EntityType="AWSNetModel.UserLogin" Width="1.5" PointX="11" PointY="2" />
+        <AssociationConnector Association="AWSNetModel.FK_dbo_UserClaim_dbo_User_UserId" />
+        <AssociationConnector Association="AWSNetModel.FK_dbo_UserLogin_dbo_User_UserId" />
+        <AssociationConnector Association="AWSNetModel.UserRole" />
+        <EntityTypeShape EntityType="AWSNetModel.Action" Width="1.5" PointX="0.75" PointY="4.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
